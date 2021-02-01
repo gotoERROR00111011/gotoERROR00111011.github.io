@@ -74,7 +74,10 @@ Contour RollerMouse 도 언젠가 테스트할 예정
 - [X] Speaker
 
 ### Desk
-- [X] Electric Standing Desk
+- [ ] Electric Standing Desk
+
+### Chair
+- [ ] Herman Miller
 
 ### Cooler
 - [ ] 커스텀 수냉
