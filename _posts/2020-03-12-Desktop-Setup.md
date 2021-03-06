@@ -65,9 +65,8 @@ Contour RollerMouse 도 언젠가 테스트할 예정
 - [ ] Mouse
 
 ### Case
-- [X] 저소음 (Fractal Design Define C)
-- [ ] 써멀테이크 Core P3
-- [ ] 써멀테이크 Core P5
+- [X] Fractal Design Define C
+- [ ] Thermaltake Core P5
 
 ### Monitor
 - [X] 24 inch
@@ -81,4 +80,4 @@ Contour RollerMouse 도 언젠가 테스트할 예정
 
 ### Cooler
 - [ ] 커스텀 수냉
-
+- [ ] (수로판) (Core P5) BYKSKI RGV-TT-P5
