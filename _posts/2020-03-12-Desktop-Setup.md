@@ -71,6 +71,7 @@ Contour RollerMouse 도 언젠가 테스트할 예정
 ### Monitor
 - [X] 24 inch
 - [X] Speaker
+- [ ] USB-C, USB-HUB
 
 ### Desk
 - [ ] Electric Standing Desk
@@ -79,5 +80,6 @@ Contour RollerMouse 도 언젠가 테스트할 예정
 - [ ] Herman Miller
 
 ### Cooler
+- [ ] ARCTIC P12 PWM PST
 - [ ] 커스텀 수냉
 - [ ] (수로판) (Core P5) BYKSKI RGV-TT-P5
